@@ -1,0 +1,12 @@
+# Core Scientific & Hyperdimensional Computing (VSA 10k-D)
+numpy>=1.24.0,<3.0.0
+
+# Data Contracts, State Validation & Schema Enforcement
+pydantic>=2.5.0,<3.0.0
+
+# Formal Symbolic Solver (Math & Algebraic Cartridge Execution)
+sympy>=1.12
+
+# Optional: Benchmark Dataset Loading & Local Evaluation Utilities
+datasets>=2.18.0
+tqdm>=4.66.0
